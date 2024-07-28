@@ -1,0 +1,10 @@
+Git commands:
+
+git init (to create empty repo)
+ls -la (to check git repo is created)
+git status ( to know current status of repo)
+git add filename( to keep a track of file)
+git diff (to know the changes)
+git commit -m“msg”(to track of changes )
+git log (to view commits made)
+git push <remote> <branch>
