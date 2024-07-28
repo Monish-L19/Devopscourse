@@ -1,0 +1,30 @@
+Shell scripting:
+
+touch (create file)
+ls---list
+vi- to read and write the file
+esc i(insert)
+esc + :wq- to save the file
+:q! (quit file )
+Cat- to view the file
+./ or sh filename (execute file)
+chmod 777 filename (for 3 group access)
+                       ---- (4 –read ,2- write,1-execute)
+
+mkdir---> create folder
+ls -ltr (list the files )
+cd (change dir and to go inside folder)
+cd ../../ (moving to dir)
+rm-fileName---> to delete file
+
+pwd (present working dir)
+free -g (check memory of lap)
+df -h (disk size)
+top (manage cpu …)
+chmod (grant permission to access file)
+############################
+
+DAY 7& DAY 8:
+
+Project 1:
+set -x  ( shows exact commands running)
