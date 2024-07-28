@@ -1,0 +1,22 @@
+Aws services for devops:
+1.EC2
+2.VPC(private)
+3.EBS(volume)
+4.S3(storage)
+5.IAM (Identity & access management)
+6.Cloud watch (Monitoring)
+7.Lamda (serverless)
+8.Cloud build services-
+      CI/CD- Jenkins
+  Services---
+ -Aws cloud pipeline
+ -Aws cloud build
+ -Aws cloud deploy
+9.Aws configuration
+10.Billing and costing
+11.Aws KMS
+12.Cloud trail
+13.Aws EKS
+14.Fargate, ECS
+15.ELK(elastic search)
+
