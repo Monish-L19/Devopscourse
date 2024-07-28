@@ -1,0 +1,6 @@
+## Hypervisor
+ - software which can install Virtual machines      to servers.  
+  - VMware, Xen
+   
+## virtualization
+-Technology which allows to create multiple Vm in Server.
