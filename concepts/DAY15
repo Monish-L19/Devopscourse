@@ -1,0 +1,29 @@
+To install Ansible :
+
+sudo apt install ansible
+ansible –version
+
+login into main server-- 
+
+ssh-keygen(generatepublic/privare keypair)
+ssh ipaddress(targetfile)
+cat fileaddress (to view public key)
+copy public key 
+
+enter into target server--
+ssh-keygen
+vim  ~/.ssh/authorized_keys
+paste public key
+ssh ipaddress(targetfile)
+create inventory file(paste private address of target server)
+ls ~/.ssh
+vim  ~/.ssh/authorized_keys
+
+Ansible adhoc Commands:
+ansible -i inventory all -m “shell” -a “filename”
+
+To write playbook:
+
+vim filename.yml
+
+ansible-playbook -i inventory filename.yml(run)
