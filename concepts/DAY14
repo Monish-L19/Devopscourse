@@ -1,0 +1,17 @@
+Configuration Management With Ansible:
+
+Puppet vs Ansible:
+1. Puppet:
+--Follows pull mechanism
+--Require Agent(Master/slave )
+--Puppet language
+
+2.Ansible:
+--Follows push 
+--Agent less
+--Yaml language(simple) 
+
+Cons:
+--Issue in windows
+--Performance issue 
+--Debugging issue
