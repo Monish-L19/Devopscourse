@@ -1,0 +1,15 @@
+1)What is Ansible?
+-- It’s an automation platform which helps in provisioning, configuring, deploying and network management.
+--Tool used is widely for configure   management.
+--Follows push mechanism
+--Agent less(software)
+--Yaml language(simple) 
+
+2)Playbooks:
+ -- It’s a text file written in YAML language that 
+ tells ansible what to do. 
+
+3)Control and Manage nodes:
+--Control node: VM in which Ansible is  installed.   
+--Manage node: VM which is used to manage configuration.
+
