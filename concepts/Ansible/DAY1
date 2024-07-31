@@ -4,6 +4,7 @@
 --Follows push mechanism
 --Agent less(software)
 --Yaml language(simple) 
+--Idempotent(Performing an operation repeatedly without changing the outcome after the first time)
 
 2)Playbooks:
  -- It’s a text file written in YAML language that 
