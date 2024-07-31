@@ -1,5 +1,5 @@
 1)What is Ansible?
--- It’s an automation platform which helps in provisioning, configuring, deploying and network management.
+-- It’s an automation platform which helps in provisioning, configuring, deploying and network automation.
 --Tool used is widely for configure   management.
 --Follows push mechanism
 --Agent less(software)
